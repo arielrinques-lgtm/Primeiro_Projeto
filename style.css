@@ -1,0 +1,12 @@
+body{
+    background-color: gold;
+}
+h1{
+    color: palevioletred;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    border: 50px;
+    border-color: blue;
+}
